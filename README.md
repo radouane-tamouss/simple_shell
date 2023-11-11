@@ -1,1 +1,1 @@
-# simple_shell | ALX • Software Engineer
+# simple_shell | ALX • Software Engineer.
